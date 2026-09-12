@@ -102,7 +102,7 @@ This project is designed for the **Turbo C environment**, usually run through **
 ```text
 Turbo-C-Console-Paint/
 │
-├── turbo-paint.C
+├── turbo-paint.c
 ├── README.md
 ├── output1.png
 └── output2.png
