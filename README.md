@@ -50,13 +50,13 @@ This project was mainly created to explore:
 
 ### Output 1
 
-![Turbo C Paint Output 1](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPOSITORY/main/output1.png)
+![Turbo C Paint Output 1](output1.jpg)
 
 ### Output 2
 
-![Turbo C Paint Output 2](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPOSITORY/main/output2.png)
+![Turbo C Paint Output 2](output2.jpg)
 
-> Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with your GitHub username and repository name.
+
 
 ---
 
@@ -68,7 +68,7 @@ This project was mainly created to explore:
 | `←` | Move Left |
 | `↑` | Move Up |
 | `↓` | Move Down |
-| `A` | Toggle Drawing Mode |
+| `a` | Toggle Drawing Mode |
 | `ESC` | Exit Drawing |
 
 ---
@@ -102,7 +102,7 @@ This project is designed for the **Turbo C environment**, usually run through **
 ```text
 Turbo-C-Console-Paint/
 │
-├── BOX.C
+├── turbo-paint.C
 ├── README.md
 ├── output1.png
 └── output2.png
